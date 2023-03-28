@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently **learning Julia.**
 
-- 👯 I’m looking to collaborate on **on some python Projects.**
+- 👯 I’m looking to collaborate **on some python Projects.**
 
 - 💬 Ask me about **anything you want to know about me and my coding journey.**
 
