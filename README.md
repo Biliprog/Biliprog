@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Color World, my image editor.**
 
-- 🌱 I’m currently learning **learning Julia.**
+- 🌱 I’m currently **learning Julia.**
 
 - 👯 I’m looking to collaborate on **on some python Projects.**
 
